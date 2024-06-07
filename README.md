@@ -14,4 +14,8 @@ Moreover, my project portfolio reflects a diverse spectrum of endeavors, from op
 
 In essence, I bring a unique blend of technical expertise, analytical acumen, and a passion for innovation to every endeavor, driving tangible outcomes and elevating organizational success.
 
-More about me, work and projects 👉 LinkedIn: https://www.linkedin.com/in/srivally-chilukuri/ 👉 github: https://www.github.com/in/chiluksr/ 👉 Email: chilukurisrivally@gmail.com
+More about me, work and projects 
+👉 LinkedIn: https://www.linkedin.com/in/srivally-chilukuri/ 
+👉 github: https://www.github.com/in/chiluksr/ 
+👉 Email: chilukurisrivally@gmail.com
+👉 Portfolio: https://chiluksr.github.io/
